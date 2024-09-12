@@ -1,0 +1,7 @@
+Deserializer/JSONValueDeserializationSchema.class
+utils/JsonUtil.class
+Dto/Transaction.class
+Dto/SalesPerDay.class
+Dto/SalesPerMonth.class
+Dto/SalesPerCategory.class
+Flink_App/DataStreamJob.class

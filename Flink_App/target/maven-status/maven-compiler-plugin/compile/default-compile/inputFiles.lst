@@ -1,0 +1,7 @@
+/home/iconicveda/Desktop/Intel/Flink_App/src/main/java/Dto/SalesPerDay.java
+/home/iconicveda/Desktop/Intel/Flink_App/src/main/java/Deserializer/JSONValueDeserializationSchema.java
+/home/iconicveda/Desktop/Intel/Flink_App/src/main/java/Dto/Transaction.java
+/home/iconicveda/Desktop/Intel/Flink_App/src/main/java/Dto/SalesPerCategory.java
+/home/iconicveda/Desktop/Intel/Flink_App/src/main/java/Flink_App/DataStreamJob.java
+/home/iconicveda/Desktop/Intel/Flink_App/src/main/java/Dto/SalesPerMonth.java
+/home/iconicveda/Desktop/Intel/Flink_App/src/main/java/utils/JsonUtil.java
